@@ -7,6 +7,9 @@ https://rini60.github.io/ma1805-coding-projects/
 The idea of drawing flowers as such came from János Karsai Ph.D. 
 [demonstrations.wolfram.com] explaims and presents the maths and shows examples of the flowers that could be created using the maths, but essentially the flower utilises the polar coordinate system and the number of petals is identical to the number of protrusions of the sin wave. In the inital setup I intended to add colour by channging the mode from RGB to HSB however, I did not end up implicating the colour on the flower and instead only coloured the background in an olive green. 
 
+[02Movement](02Movement/index.html)
+I made a face with a triangle moving across the screen. I focused on the basics in this code as I wanted to spend more time on the previous code. 
+
 [03multiples](03multiples/index.html)
 This sketch draws a bunch of circles that move with your mouse horizontally, changes their colour when you click and displays the word "words" at the top - left of the canvas. It is an interactive, colourful motion sketch. 
 	
